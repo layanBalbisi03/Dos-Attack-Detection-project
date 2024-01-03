@@ -9,5 +9,14 @@ In this repository, we share the code and data for reproducability.
 # Models
 ![Blank diagram](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/assets/103776716/9c5c5a42-149e-489f-910f-893fbe324b7a)
 
+
+
 # Datasets & Preprocessing
+- Normalization of Input Data
+In the WSD, the scales of some features are relatively different. Biases can be avoided by normalization (standardization), which has a direct impact on the outcomes. It is possible for classification mistakes to arise by training a model without employing any normalizing techniques[4]. min-max scaling have been used to normalize data , due to its reduced sensitivity to outliers. Min-max scaling preserves outliers by maintaining their relative positions within the original range of values, without their removal.
+
+
+- Class Rebalancing
+ In our project, addressing the challenge of imbalanced data was crucial for model performance and reliability. To mitigate this issue, we implemented a technique known as undersampling. Undersampling involves reducing the size of the majority classes in the dataset to balance it with the minority class, thus allowing our models to learn from a more proportionate representation of all classes. This approach significantly improved the overall performance and accuracy of our predictive models by ensuring a more balanced and representative training dataset. 
+
 
