@@ -8,8 +8,8 @@ In this repository, we share the code and data for reproducability.
 # setup 
 Although each foundation model has its own configuration steps, we provide you with a universal configuration as follows:
 
-Python version: 3.8.17.
-GPU: NVIDIA or use Google colab.
+- Python version: 3.8.17.
+- GPU: NVIDIA or use Google colab.
 All code is available in [DosDetection_FullCode.ipynb](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/main/DosDetection_FullCode.ipynb) , just Run it.
 
 # Models
