@@ -12,6 +12,7 @@ In this repository, we share the code and data for reproducability.
 
 
 # Datasets & Preprocessing
-Datasets (WSN) and their sampling variations (undersampled) can be found inside the [data](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/7b5b17099c1d25e521cf25e12c1ad1c518994fe6/Data)https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/7b5b17099c1d25e521cf25e12c1ad1c518994fe6/Data directory. You can also find the preprocessing code for Class Rebalancing (undersampling) and scaling in 
+Datasets (WSN) and their sampling variations (undersampled) can be found inside the [Data](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/tree/7b5b17099c1d25e521cf25e12c1ad1c518994fe6/Data)
+ directory. You can also find the preprocessing code for Class Rebalancing (undersampling) and scaling in 
 
 
