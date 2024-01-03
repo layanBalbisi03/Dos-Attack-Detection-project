@@ -25,8 +25,8 @@ You can find the Ensemble model code for ( stacking Classifier, Fixed Weighted, 
 
 # Contact Us
 If you encounter any issues and need assistance, please sumbit an issue on this GitHub repository, or contact us via
-bsr0189040@ju.edu.jo
--
+- bsr0189040@ju.edu.jo
+- lya0215423@ju.edu.jo
 -
 -
 -
