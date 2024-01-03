@@ -24,6 +24,12 @@ Ensembling Learning leverages multiple base models to achieve better predictive 
 You can find the Ensemble model code for ( stacking Classifier, Fixed Weighted, Voting, Learnable Weighted) in [Ensemble learning.ipynb](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/tree/main/Ensemble%20Learning)
 
 # Contact Us
-If you encounter any issues and need assistance, please sumbit an issue on this GitHub repository, or contact us via bsr0189040@ju.edu.jo Thank you for your interest in reproducing the results!
+If you encounter any issues and need assistance, please sumbit an issue on this GitHub repository, or contact us via
+bsr0189040@ju.edu.jo
+-
+-
+-
+-
+Thank you for your interest in reproducing the results!
 
 
