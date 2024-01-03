@@ -5,6 +5,7 @@ The utilization of Wireless Sensor Networks (WSN) and their prevalence expose th
 This project provides a comprehensive empirical study aims at examining several Ensemble learning using a new specialized, published dataset for WSN networks (named as WSN-DS). The purpose is to provide an efficient IDS for detecting critical Denial of Service (DoS) attacks, which have a serious impact on the services provided by WSNs.
 In this repository, we share the code and data for reproducability.
 
+# setup 
 
 # Models
 ![Blank diagram](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/assets/103776716/9c5c5a42-149e-489f-910f-893fbe324b7a)
@@ -27,9 +28,9 @@ You can find the Ensemble model code for ( stacking Classifier, Fixed Weighted, 
 If you encounter any issues and need assistance, please sumbit an issue on this GitHub repository, or contact us via
 - bsr0189040@ju.edu.jo
 - lya0215423@ju.edu.jo
--
--
--
+- mry0216884@ju.edu.jo
+- zyn0218080@ju.edu.jo
+- Lyn0219463@ju.edu.jo
 Thank you for your interest in reproducing the results!
 
 
