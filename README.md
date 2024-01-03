@@ -8,12 +8,11 @@ In this repository, we share the code and data for reproducability.
 # setup 
 
 # Models
-![Blank diagram](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/assets/103776716/9c5c5a42-149e-489f-910f-893fbe324b7a)
-
 This project focused on Dos attack detection, a diverse array of 11 distinct machine learning models was employed. These models served as the cornerstone of approach, aimed at identifying and mitigating potential Dos attacks within network traffic data. The utilization of these models was pivotal in fortifying our defense mechanisms against the evolving landscape of cyber threats.
 
 For simplicity, we provide Jupyter notebooks containing codes for the Dos attack detection inside [models](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/main/Models/Models.ipynb) directory
 
+![Blank diagram](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/assets/103776716/9c5c5a42-149e-489f-910f-893fbe324b7a)
 
 
 # Datasets & Preprocessing
