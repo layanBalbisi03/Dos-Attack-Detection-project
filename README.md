@@ -7,7 +7,7 @@ In this repository, we share the code and data for reproducability.
 
 
 # Models
-![Blank diagram](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/assets/103776716/e07713fc-fa4c-46ce-af23-ec5b7d83081b)
+![Blank diagram](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/assets/103776716/e07713fc-fa4c-46ce-af23-ec5b7d83081b | width=100)
 
 # Datasets & Preprocessing
 
