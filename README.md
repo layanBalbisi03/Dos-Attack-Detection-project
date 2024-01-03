@@ -17,7 +17,7 @@ For simplicity, we provide Jupyter notebooks containing codes for the Dos attack
 
 
 # Datasets & Preprocessing
-Datasets (WSN) and their sampling variations (undersampled) can be found inside the [Data](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/tree/7b5b17099c1d25e521cf25e12c1ad1c518994fe6/Data)
+Datasets (WSN) and their sampling variations (undersampled) can be found inside the [Data](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/main/Data/WSN-DS.zip)
  directory. You can also find the preprocessing code for Class Rebalancing (undersampling) and scaling in [data_preprocessing.ipynb](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/main/Data/Data_Preprocessing.ipynb)
 
 # Ensemble Learning
