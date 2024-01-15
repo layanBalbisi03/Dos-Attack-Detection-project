@@ -11,12 +11,12 @@ Although each foundation model has its own configuration steps, we provide you w
 - Python version: 3.10.
 - GPU: NVIDIA or use Google colab.
 
-All code is available in [DosDetection_FullCode.ipynb](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/main/DosDetection_FullCode.ipynb) , just Run it.
+All code is available in [DosDetection_FullCode.ipynb]([https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/main/Dos_Detection(full%20code).ipynb]) , just Run it.
 
 # Models
 This project focused on Dos attack detection, a diverse array of 11 distinct machine learning models was employed. These models served as the cornerstone of approach, aimed at identifying and mitigating potential Dos attacks within network traffic data. The utilization of these models was pivotal in fortifying our defense mechanisms against the evolving landscape of cyber threats.
 
-For simplicity, we provide Jupyter notebooks containing codes for the Dos attack detection inside [models](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/main/Models/Models.ipynb) directory
+For simplicity, we provide Jupyter notebooks containing codes for the Dos attack detection inside [models]([https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/main/Models.ipynb]) directory
 
 ![Blank diagram](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/assets/103776716/9c5c5a42-149e-489f-910f-893fbe324b7a)
 
@@ -27,7 +27,7 @@ Datasets (WSN) and their sampling variations (undersampled) can be found inside 
 
 # Ensemble Learning
 Ensembling Learning leverages multiple base models to achieve better predictive performance, which is often better than any of the constituent models alone. It has been proven critical in many practical applications and data science competitions applications. 
-You can find the Ensemble model code for ( stacking Classifier, Fixed Weighted, Voting, Learnable Weighted) in [Ensemble_learning.ipynb](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/main/Ensemble%20learning/Ensemble_Learning.ipynb)
+You can find the Ensemble model code for (Stacking Classifier, Fixed Weighted, Voting, Learnable Weighted) in [Ensemble_learning.ipynb] [https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/main/Ensemble_Learning.ipynb]
 
 # Contact Us
 If you encounter any issues and need assistance, please sumbit an issue on this GitHub repository, or contact us via
